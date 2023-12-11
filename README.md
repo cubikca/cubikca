@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cubikca
 - 👀 I’m interested in .NET application architecture
-- 🌱 I’m currently learning .NET 5.0 and Blazor WASM
+- 🌱 I’m currently learning Event-Driven Architecture
 - 📫 You can reach me at brian@cubik.ca
 
 <!---
